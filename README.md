@@ -107,7 +107,7 @@ The GPIO is the most basic, yet accessible aspect of the Raspberry Pi. GPIO pins
 
 Certain GPIO pins also have alternate functions that allow them to interface with different kinds of devices that use the I2C, SPI or UART protocols.
 
-![GPIO-image](/images/GPIO.png)
+![GPIO-image](/images/GPIO.png)  
 https://pinout.xyz/pinout/pin11_gpio17#
 
 **I2C - Inter-Integrated Circuit**
